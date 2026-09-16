@@ -1,4 +1,4 @@
-# greyhound-racing-dog-analysis
+# Greyhound Racing Dog Analysis
 
 Does the race field pick winners, and did the price already know?
 
